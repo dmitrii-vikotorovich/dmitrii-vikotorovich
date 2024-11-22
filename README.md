@@ -5,9 +5,11 @@ Welcome to my GitHub profile! I’m a **Computer Science student at UC San Diego
 ---
 
 ## 🚀 About Me
-- 🌟 **Passion**: Creating memorable and atmospheric gaming experiences.
+- 🌟 **Passion**: Creating memorable and atmospheric gaming experiences and innovative tech solutions.
 - 🎓 **Education**: University of California San Diego, majoring in Computer Science.
-- 🧩 **Current Project**: Developing a **3D horror game** using **Unreal Engine**, **C++**, and **Autodesk Maya** as part of my capstone project. Exploring the art of atmospheric design, real-time rendering, and engaging narratives.
+- 🧩 **Current Projects**:
+  - **3D Horror Game**: Developing a single-player horror game using **Unreal Engine**, **C++**, and **Autodesk Maya**, focusing on atmospheric design and immersive storytelling.
+  - **Meditation Website (Calmanaut)**: Building a platform to help college students meditate, relax, and improve their mental health in a supportive group environment. The project combines web development, mental health awareness, and user-centered design principles.
 
 ---
 
@@ -41,15 +43,12 @@ Welcome to my GitHub profile! I’m a **Computer Science student at UC San Diego
 ## 🌟 Featured Projects
 ### 🎮 [Horror Game](#)
 A single-player **3D horror game** exploring atmospheric design, immersive storytelling, and real-time rendering.  
-**Tech Stack**: Unreal Engine, C++, Autodesk Maya.  
+**Tech Stack**: Unreal Engine, C++, Autodesk Maya, OpenGL, DirectX.  
 
-### 📊 [Data Analyzer](#)
-A Python tool designed for analyzing and visualizing large datasets.  
-**Tech Stack**: Python, Pandas, Matplotlib.  
+### 🌐 [Meditation Website(Calmanaut)](#)
+A platform designed to help college students meditate, relax, and improve their mental health in a supportive group of peers.  
+**Tech Stack**: React.js, Node.js, JEST, HTML, CSS, SQL.  
 
-### 🌐 [Optimized Web Forms](#)
-Improved the UX and performance of online forms for CGYCA clients.  
-**Tech Stack**: HTML, CSS, React.js.  
 
 ---
 
@@ -60,5 +59,4 @@ Improved the UX and performance of online forms for CGYCA clients.
 
 ---
 
-Thanks for visiting my profile! Feel free to connect or check out my repositories to see what I’m working on. 🚀
-
+Thanks for visiting my profile! Feel free to connect! 🚀
