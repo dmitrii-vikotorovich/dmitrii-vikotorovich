@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I’m a **Computer Science student at UC San Diego
 A single-player **3D horror game** exploring atmospheric design, immersive storytelling, and real-time rendering.  
 **Tech Stack**: Unreal Engine, C++, Autodesk Maya, OpenGL, DirectX.  
 
-### 🌐 [Meditation Website(Calmanaut) - https://github.com/cse110-team8-fa24/calmanaut.git](#)
+### 🌐 [Meditation Website(Calmanaut)](#)  - https://github.com/cse110-team8-fa24/calmanaut.git
 A platform designed to help college students meditate, relax, and improve their mental health in a supportive group of peers.  
 **Tech Stack**: React.js, Node.js, JEST, HTML, CSS, SQL.  
 
