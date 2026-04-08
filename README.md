@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I’m a **Computer Science student at UC San Diego
 
 ## 🌟 Featured Projects
 ### 🎮 [Horror Game](#)
-- **[PenumbraSystems](https://github.com/YOUR_USERNAME/PenumbraSystems)** — Horror game systems in UE5/C++ (Silent Hill + Outlast inspired)
+- **[PenumbraSystems](https://github.com/dmitrii-vikotorovich/PenumbraSystems)** — Horror game systems in UE5/C++ (Silent Hill + Outlast inspired)
 **Tech Stack**: Unreal Engine, C++, Autodesk Maya, OpenGL, DirectX.  
 
 ### 🌐 [Meditation Website(Calmanaut)](#)  - https://github.com/cse110-team8-fa24/calmanaut.git
