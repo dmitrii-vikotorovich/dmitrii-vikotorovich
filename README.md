@@ -1,62 +1,74 @@
-# 👋 Hi there! I'm Dmitry Latypov
+# Dmitry Latypov
 
-Welcome to my GitHub profile! I’m a **Computer Science student at UC San Diego (Class of 2026)** with a focus on **Game Development, Computer Graphics, and Interactive Media**. My goal is to craft immersive, engaging experiences that combine storytelling, technology, and creativity. 🎮✨
+**Computer Science · UC San Diego · Class of 2026**  
+Game Development · C++ · Real-Time Rendering · Unreal Engine 5
 
----
-
-## 🚀 About Me
-- 🌟 **Passion**: Creating memorable and atmospheric gaming experiences and innovative tech solutions.
-- 🎓 **Education**: University of California San Diego, majoring in Computer Science.
-- 🧩 **Current Projects**:
-  - **3D Horror Game**: Developing a single-player horror game using **Unreal Engine**, **C++**, and **Autodesk Maya**, focusing on atmospheric design and immersive storytelling.
-  - **Meditation Website (Calmanaut)**: Building a platform to help college students meditate, relax, and improve their mental health in a supportive group environment. The project combines web development, mental health awareness, and user-centered design principles.
+📧 dlatypov@ucsd.edu · 💼 [LinkedIn](https://www.linkedin.com/in/dmitry-latypov-186918276/) · 📍 San Diego, CA
 
 ---
 
-## 💡 Skills
-- **Programming Languages**: C++, Java, JavaScript, SQL.
-- **Game Development**: Unreal Engine, OpenGL, DirectX, Autodesk Maya, Blueprint.
-- **Web Development**: HTML, CSS, React.js.
-- **Tools**: MATLAB, Excel (Advanced), Agile Methodologies.
-- **Languages**: Trilingual – English, Russian, and Italian.
+## Summary
+
+CS senior specializing in game development, C++, and real-time rendering. Experienced applying object-oriented programming principles and full software development lifecycle practices across game systems, computational finance, and web engineering. Self-directed, trilingual collaborator with a track record of shipping scalable systems and documenting complex processes clearly. Passionate about MMORPGs and immersive horror experiences.
 
 ---
 
-## 💼 Experience
-- **PwC (PricewaterhouseCoopers)**: Computational Finance Intern  
-   - Analyzed large datasets, produced profit/loss reports, and applied **MATLAB** and **C++** to finance projects.  
-   - Delivered equity research reports and pitched to PwC Australia representatives.  
-- **CGYCA (Consulting Group)**: Frontend Web Developer  
-   - Enhanced customer experience through optimized online forms and improved web design using **HTML**, **CSS**, and **React.js**.  
-   - Managed databases with **SQL** and **PHP** and provided multilingual client support.
+## Technical Skills
+
+| | |
+|---|---|
+| **Languages** | C++ · Java · JavaScript · SQL · PHP · HTML · CSS |
+| **Game Dev** | Unreal Engine 5 · OpenGL · DirectX · Blueprint · Autodesk Maya |
+| **Principles** | Object-Oriented Programming · Scalable Systems Design · SDLC |
+| **Web & Data** | React.js · Node.js · TypeScript · MATLAB · Excel |
+| **Process** | Agile · CI/CD · Code Documentation · Debugging & Testing |
+| **Spoken Languages** | English (Native) · Russian (Native) · Italian (Fluent) |
 
 ---
 
-## 🏆 Education Highlights
-- **Stanford University**: Game Design and Artificial Intelligence (Pre-Collegiate Program)  
-   - Studied **AI for Games**, **real-time rendering**, and **Unreal Engine** game development.  
-- **Columbia University**: Entrepreneurship and Technology Pre-College Program  
-   - Gained foundational knowledge in **financial modeling** and **venture creation** using **C++** and **MATLAB**.
+## Projects
+
+### 🎮 [PenumbraSystems](https://github.com/dmitrii-vikotorovich/PenumbraSystems) — UE5 / C++
+Horror game systems framework inspired by **Silent Hill** and **Outlast**.
+Built as part of an ongoing capstone project at UC San Diego.
+
+| System | Description |
+|---|---|
+| `SanityComponent` | Psychological state machine driving hallucinations and AI perception scaling |
+| `EnemyAIController` | 6-state FSM pursuer AI — Patrol → Alert → Chase → Search → Give Up |
+| `StealthSystem` | Hide spots, breath-holding, noise radius management |
+| `CameraSystem` | Camcorder with night vision, battery drain, and resource management |
+| `GameEventBus` | Decoupled observer pattern event system connecting all subsystems |
+
+**Stack:** C++ · Unreal Engine 5 · OpenGL · DirectX · Blueprint · Autodesk Maya
 
 ---
 
-## 🌟 Featured Projects
-### 🎮 [Horror Game](#)
-- **[PenumbraSystems](https://github.com/dmitrii-vikotorovich/PenumbraSystems)** — Horror game systems in UE5/C++ (Silent Hill + Outlast inspired)
-**Tech Stack**: Unreal Engine, C++, Autodesk Maya, OpenGL, DirectX.  
+### 🌐 [Calmanaut](https://github.com/cse110-team8-fa24/calmanaut) — React / TypeScript
+Meditation and wellness platform built for college students as part of a team of 8 at UCSD.
+Features a live deployed backend, CI/CD via GitHub Actions, and full SDLC from requirements through release.
 
-### 🌐 [Meditation Website(Calmanaut)](#)  - https://github.com/cse110-team8-fa24/calmanaut.git
-A platform designed to help college students meditate, relax, and improve their mental health in a supportive group of peers.  
-**Tech Stack**: React.js, Node.js, JEST, HTML, CSS, SQL.  
-
+**Stack:** TypeScript · React.js · Node.js · SQL · HTML · CSS · GitHub Actions
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: [dlatypov@ucsd.edu](mailto:dlatypov@ucsd.edu)
-- 💼 LinkedIn: [Dmitry Latypov](https://www.linkedin.com/in/dmitry-latypov-186918276/)
-- 🌍 Personal Portfolio: Coming Soon!  
+## Experience
+
+**3D Horror Game — Lead Developer** · UC San Diego Capstone · Sep 2024 – May 2026  
+Architecting core game systems in C++ and Unreal Engine 5 with a focus on OOP, real-time rendering optimization, and full SDLC documentation.
+
+**CGYCA Consulting Group — Frontend Web Developer** · Summer 2022  
+Increased customer conversion by 15% via React.js redesign. Delivered SQL/PHP database solutions for 4+ client projects following structured SDLC practices.
+
+**PricewaterhouseCoopers (PwC) — Computational Finance Intern** · Summer 2020  
+Engineered automated profit/loss pipelines in C++ and MATLAB. Produced equity research reports presented to PwC Australia leadership.
 
 ---
 
-Thanks for visiting my profile! Feel free to connect! 🚀
+## Education
+
+**University of California, San Diego** — B.S. Computer Science · Class of 2026  
+Focus: Game Development · Computer Graphics · Interactive Media
+
+**Stanford University** — Game Design & AI (Pre-Collegiate) · Summer 2019  
+**Columbia University** — Entrepreneurship & Technology (Pre-Collegiate) · Summer 2020
